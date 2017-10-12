@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
 
-namespace DroneLander.Droid.ViewModels
+namespace DroneLander
 {
+    public class x { }
     public class MainViewModel : Common.ObservableBase
     {
         public MainViewModel(MainPage activityPage)

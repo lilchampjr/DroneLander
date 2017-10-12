@@ -13,7 +13,7 @@ namespace DroneLander
         public App()
         {
             InitializeComponent();
-
+            
             MainPage = new NavigationPage(new DroneLander.MainPage());
         }
 
